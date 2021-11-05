@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiteshGhute
 - 👀 I’m interested in web development, android development and especially in competitive coding!
 - 🌱 I’m currently doing B.Tech CSE
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ? Here - https://www.linkedin.com/in/liteshghute/
 
 <!---
