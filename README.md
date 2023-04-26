@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Litesh Ghute</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
+![](https://github.com/LiteshGhute/images/blob/main/banner.jpg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liteshghute&label=Profile%20views&color=0e75b6&style=flat" alt="liteshghute" /> </p>
 
 - 🔭 I’m currently working on [AWSGoat](https://github.com/ine-labs/AWSGoat)
