@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Litesh Ghute</h1>
+<h1 align="center">Hi 👋🏻, I'm Litesh Ghute</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
 <div align="center"><img src="https://github.com/LiteshGhute/images/blob/main/banner.png" width="600"></div>
