@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Litesh Ghute</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" src="https://i.gifer.com/bJk.gif">
+<h3 align="center">A Passionate Software Engineer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liteshghute&label=Profile%20views&color=0e75b6&style=flat" alt="liteshghute" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liteshghute" alt="liteshghute" /></a> </p>
 
 - 🔭 I’m currently working on [AWSGoat](https://github.com/ine-labs/AWSGoat)
 
@@ -12,9 +9,7 @@
 
 - 📝 I regularly write articles on [https://ine.com/blog/command-injection](https://ine.com/blog/command-injection)
 
-- 📫 How to reach me **https://www.linkedin.com/in/liteshghute/**
-
-- 📄 Know about my experiences [https://liteshghute.github.io/Portfolio-Litesh-Ghute/](https://liteshghute.github.io/Portfolio-Litesh-Ghute/)
+- 📄 My portfolio [https://liteshghute.github.io/Portfolio-Litesh-Ghute/](https://liteshghute.github.io/Portfolio-Litesh-Ghute/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liteshghute&show_icons=true&locale=en&layout=compact" alt="liteshghute" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liteshghute&show_icons=true&locale=en" alt="liteshghute" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liteshghute&" alt="liteshghute" /></p>
