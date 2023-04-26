@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [https://github.com/ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat)
 
-- 👨‍💻 All of my projects are available at [https://github.com/LiteshGhute](https://github.com/LiteshGhute)
+- 👨‍💻 My projects are available at [https://github.com/LiteshGhute](https://github.com/LiteshGhute)
 
-- 📝 I regularly write articles on [https://ine.com/blog/command-injection](https://ine.com/blog/command-injection)
+- 📝 My articles [https://ine.com/blog/command-injection](https://ine.com/blog/command-injection)
 
 - 📄 My portfolio [https://liteshghute.github.io/Portfolio-Litesh-Ghute/](https://liteshghute.github.io/Portfolio-Litesh-Ghute/)
 
