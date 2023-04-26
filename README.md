@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liteshghute&label=Profile%20views&color=0e75b6&style=flat" alt="liteshghute" /> </p>
 
-- 🔭 I’m currently working on [AWSGoat](https://github.com/ine-labs/AWSGoat)
+- 🔭 I’m currently working on [https://github.com/ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LiteshGhute](https://github.com/LiteshGhute)
 
