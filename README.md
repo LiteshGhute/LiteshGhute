@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liteshghute&label=Profile%20views&color=0e75b6&style=flat" alt="liteshghute" /> </p>
 
-- 📄 My portfolio [https://liteshghute.github.io/Portfolio-Litesh-Ghute/](https://liteshghute.github.io/Portfolio-Litesh-Ghute/)
+- 😎 My portfolio [https://liteshghute.github.io/Portfolio-Litesh-Ghute/](https://liteshghute.github.io/Portfolio-Litesh-Ghute/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
