@@ -9,7 +9,7 @@
 - 🎮 Here's the game I built [https://simmer.io/@litesh/infinite-shark-game-by-litesh](https://simmer.io/@litesh/infinite-shark-game-by-litesh)
 - 🐣 Here's the android application I built [https://www.amazon.com/gp/product/B09SGFTJGK](https://www.amazon.com/gp/product/B09SGFTJGK)
 - 🎥 The video demo of my android app: https://youtube.com/shorts/IbPwUcBYLwo?feature=share
-- 🐞 The CVE I discovered: [https://huntr.dev/bounties/dd7c04a7-a984-4387-9ac4-24596e7ece44/](https://huntr.dev/bounties/dd7c04a7-a984-4387-9ac4-24596e7ece44/)
+- 🐞 The CVE I found: [https://huntr.dev/bounties/dd7c04a7-a984-4387-9ac4-24596e7ece44/](https://huntr.dev/bounties/dd7c04a7-a984-4387-9ac4-24596e7ece44/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
