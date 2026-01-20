@@ -3,7 +3,7 @@
 
 <div align="center"><img src="https://github.com/LiteshGhute/images/blob/main/banner.png" width="600"></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liteshghute&label=Profile%20views&color=0e75b6&style=flat" alt="liteshghute" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=liteshghute&label=Profile%20views&color=0e75b6&style=flat" alt="liteshghute" /> </p> -->
 
 - 😎 My portfolio [https://liteshghute.github.io/Portfolio-Litesh-Ghute/](https://liteshghute.github.io/Portfolio-Litesh-Ghute/)
 - 🎮 Here's the game I built [https://simmer.io/@litesh/infinite-shark-game-by-litesh](https://simmer.io/@litesh/infinite-shark-game-by-litesh)
