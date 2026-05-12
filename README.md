@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Litesh%20Ghute&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Security%20Researcher%20%7C%20Game%20Dev&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Litesh%20Ghute&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Security%20Researcher&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+%26+Flutter+Engineer+%F0%9F%93%B1;Security+Researcher+%F0%9F%94%90;Game+Developer+%F0%9F%8E%AE;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+%26+Flutter+Engineer+%F0%9F%93%B1;Security+Researcher+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
 
 </div>
@@ -13,15 +13,17 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/LiteshGhute/images/main/code.gif"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LiteshGhute/images/main/code.gif" width="500"/>
+</div>
+
+<br/>
 
 - 🌐 Portfolio: [liteshghute.github.io](https://liteshghute.github.io/Portfolio-Litesh-Ghute/)
 - 🎮 Built a game: [Infinite Shark Game](https://simmer.io/@litesh/infinite-shark-game-by-litesh)
 - 📱 Android App on Amazon: [Check it out](https://www.amazon.com/gp/product/B09SGFTJGK)
 - 🎥 App Demo: [YouTube Short](https://youtube.com/shorts/IbPwUcBYLwo?feature=share)
 - 🔐 CVE Researcher: [View my CVE](https://huntr.dev/bounties/dd7c04a7-a984-4387-9ac4-24596e7ece44/)
-
-<br clear="right"/>
 
 ---
 
