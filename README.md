@@ -13,10 +13,6 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LiteshGhute/images/main/code.gif" width="500"/>
-</div>
-
 <br/>
 
 - 🌐 Portfolio: [liteshghute.github.io](https://liteshghute.github.io/Portfolio-Litesh-Ghute/)
