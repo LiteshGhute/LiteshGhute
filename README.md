@@ -19,6 +19,7 @@
 - 📱 Android App on Amazon: [Check it out](https://www.amazon.com/gp/product/B09SGFTJGK)
 - 🎥 App Demo: [YouTube Short](https://youtube.com/shorts/IbPwUcBYLwo?feature=share)
 - 🔐 CVE Researcher: [CVE-2023-2102](https://huntr.dev/bounties/dd7c04a7-a984-4387-9ac4-24596e7ece44/), [CVE-2026-62383](https://www.vulncheck.com/advisories/nltk-ipipancorpusreader-symlink-arbitrary-file-read), [CVE-2026-62384](https://www.vulncheck.com/advisories/nltk-framenetcorpusreader-symlink-sandbox-bypass-before)
+- My Research Talks: [AWSGoat BHAsia 2023](https://blackhat.com/asia-23/arsenal/schedule/index.html#awsgoat--a-damn-vulnerable-aws-infrastructure-31311), [LLMGoat BSides Kerala 2026](https://bsideskerala.in/speakers/2026/litesh-ghute/), [OrbitalExploit BHIndia 2026](https://www.blackhat-india.com/arsenal-schedule#orbital-exploit-hack-a-satellite-with-real-space-protocols-60023), [CyberCity BHIndia 2026](https://www.blackhat-india.com/arsenal-schedule#cybercity---icsot-cybersecurity-training-platform-60014), [CyberCity BHEurope 2026](https://blackhat.com/europe/arsenal/schedule/index.html#cybercity---icsot-cybersecurity-training-platform-55026)
 
 ---
 
