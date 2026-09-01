@@ -16,7 +16,6 @@
 <br/>
 
 - 🌐 Portfolio: [liteshghute.github.io](https://liteshghute.github.io/Portfolio-Litesh-Ghute/)
-- 🎮 Built a game: [Infinite Shark Game](https://simmer.io/@litesh/infinite-shark-game-by-litesh)
 - 📱 Android App on Amazon: [Check it out](https://www.amazon.com/gp/product/B09SGFTJGK)
 - 🎥 App Demo: [YouTube Short](https://youtube.com/shorts/IbPwUcBYLwo?feature=share)
 - 🔐 CVE Researcher: [CVE-2023-2102](https://huntr.dev/bounties/dd7c04a7-a984-4387-9ac4-24596e7ece44/), [CVE-2026-62383](https://www.vulncheck.com/advisories/nltk-ipipancorpusreader-symlink-arbitrary-file-read), [CVE-2026-62384](https://www.vulncheck.com/advisories/nltk-framenetcorpusreader-symlink-sandbox-bypass-before)
